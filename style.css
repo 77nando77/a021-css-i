@@ -14,19 +14,19 @@ p{
 }
 #bloco-1{
     background-color: rgb(230, 152, 7);
-    border: 8px solid rgb(238, 174, 56);
+    border: 0.5rem solid rgb(238, 174, 56);
 }
 #bloco-2{
     background-color: rgb(75, 142, 96);
-    border: 8px solid rgb(106, 186, 134);
+    border: 0.5rem solid rgb(106, 186, 134);
 }
 #bloco-3{
     background-color:rgb(33, 85, 57) ;
-    border: 8px dashed rgb(100, 200, 118);
+    border: 0.5rem dashed rgb(100, 200, 118);
 }
 #bloco-4{
     background-color: rgb(223, 12, 12);
-    border: 8px dashed rgb(233, 129, 129);
+    border: 0.5rem dashed rgb(233, 129, 129);
 }
 main{
     font-style: helvetica;
